@@ -7,12 +7,12 @@ I'm passionate about combining financial analysis with data-driven decision maki
 whether that's building ML models in R, writing SQL queries for business analytics, 
 or analyzing markets as an equity analyst at Rambler Investment Fund.
 
-## 💼 Experience
+## Experience
 - **Debt Capital Markets Intern** @ Alter Domus — leveraged loan markets, trade lifecycle & settlement
 - **Equity Analyst** @ Rambler Investment Fund — stock pitches, sector reports, macro research
 - **Tutor** @ Loyola University Chicago — math (pre-algebra through calculus) & athletics tutoring
 
-## 🛠️ Skills
+## Technical Skills
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -21,14 +21,14 @@ or analyzing markets as an equity analyst at Rambler Investment Fund.
 - **Finance:** Capital Markets, Loan Syndication, DCF / FCFE Valuation, Financial Modeling
 - **Data:** Machine Learning, Clustering, Regression, EDA, Data Wrangling
 
-## 📂 Projects
+## Projects
 - 🔗 [R Projects](https://github.com/LarbiMou/R) — ML, clustering, optimization, EDA in R
 - 🔗 [Python Projects](https://github.com/LarbiMou/Python) — data pipelines, APIs, visualization
 - 🔗 [SQL Projects](https://github.com/LarbiMou/SQL) — retail, supply chain & property management queries
 
-## 🎓 Education
+## Education
 **B.B.A. Finance** + **B.B.A. Information Systems & Data Analytics**
 Loyola University Chicago — Dean's List | Presidential Scholarship Recipient
 
-## 🌍 Languages
+## Languages
 English & Arabic (Native)
